@@ -44,7 +44,7 @@ Structural & fluid simulation studies with boundary conditions, meshing & result
 
 ## 📫 Connect with Me  
 - **LinkedIn:** https://www.linkedin.com/in/samiul-islam1122  
-- **Email:** your-email@gmail.com  
+- **Email:** bdmdsamiul@gmail.com  
 
 ---
 
